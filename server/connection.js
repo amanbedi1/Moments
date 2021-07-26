@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const CONNECTION_URL =
-  "mongodb+srv://aman_bedi:devil%404444@momentsdatabase.uh8yx.mongodb.net/MomentsDatabase?retryWrites=true&w=majority";
+  "YOUR CONNECTION URL";
 
 const dbConnector = () => {
   console.log(mongoose.connection.readyState);
