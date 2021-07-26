@@ -13,7 +13,7 @@ This application is made using
 </ol> 
 
 ## Setup  
-First change connection url in server/connection.js to your database url either local or hosted. 
+First change connection url in ```server/connection.js``` to your database url either local or hosted. 
 ```
 cd server 
 npm install 
