@@ -24,3 +24,6 @@ cd client
 npm install 
 npm start
 ```
+
+## Live Demo
+https://momentsapplication.herokuapp.com/
