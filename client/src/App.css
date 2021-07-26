@@ -1,0 +1,11 @@
+body{ 
+  margin:auto; 
+  width: 70%;
+  position: relative;
+} 
+
+@media screen and (max-width: 500px) {
+  body {
+    width:95%;
+  }
+}
