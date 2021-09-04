@@ -1,7 +1,7 @@
 # Moments 
 
 ## Introduction
-A web application which allows users to post, create, delete or update interesting events that happended in their lives.  
+A fully responsive web application which allows users to post, create, delete or update interesting events that happended in their lives.  
 This application is made using  
 <ol> 
 <li>React.js</li> 
@@ -13,6 +13,8 @@ This application is made using
 
 
 <img src="https://i.ibb.co/DCtdmLJ/screencapture-localhost-3000-2021-07-26-16-16-53.png" alt="screencapture-localhost-3000-2021-07-26-16-16-53" border="0">
+<img src="https://i.ibb.co/BB7mGvP/Screenshot-82.png" alt="Screenshot-82" border="0">
+<img src="https://i.ibb.co/xMxsbqs/Screenshot-81.png" alt="Screenshot-81" border="0">
 
 
 ## Setup  
