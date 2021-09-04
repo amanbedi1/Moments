@@ -1,8 +1,8 @@
 # Moments 
-<a href="https://ibb.co/FwKpcnr"><img src="https://i.ibb.co/DCtdmLJ/screencapture-localhost-3000-2021-07-26-16-16-53.png" alt="screencapture-localhost-3000-2021-07-26-16-16-53" border="0"></a>   
+<img src="https://i.ibb.co/DCtdmLJ/screencapture-localhost-3000-2021-07-26-16-16-53.png" alt="screencapture-localhost-3000-2021-07-26-16-16-53" border="0">
 
 ## Introduction
-A web application which allows users to post interesting events that happended in their lives.  
+A web application which allows users to post, create, delete or update interesting events that happended in their lives.  
 This application is made using  
 <ol> 
 <li>React.js</li> 
