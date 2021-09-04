@@ -18,7 +18,7 @@ This application is made using
 
 
 ## Setup  
-First change connection url in ```server/connection.js``` to your database url either local or hosted. 
+First change connection url in ```server/connection.js``` to your MongoDB database. 
 ```
 cd server 
 npm install 
@@ -31,4 +31,5 @@ npm start
 ```
 
 ## Live Demo
-https://momentsapplication.herokuapp.com/
+https://momentsapplication.herokuapp.com/   
+Since it is hosted on free cloud service it may take some time to setting up server so please be patient.
